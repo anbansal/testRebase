@@ -2,9 +2,9 @@ import pandas as pd
 import numpy as np
 import time
 
-def main(){
+def main():
   print("Hello world")
   
   
-if __name__="main":
+if __name__=="main":
   main()
